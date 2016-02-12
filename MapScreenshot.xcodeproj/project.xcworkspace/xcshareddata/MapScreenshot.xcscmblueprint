@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B02DBA9D31B5B78F5C97EE4360448273B5C3FBAB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B02DBA9D31B5B78F5C97EE4360448273B5C3FBAB" : 0,
+    "9F0FD591651DE63D580009E5E2162B5B8523FDC4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DD2FD57F-8C7D-4BD6-AA0A-43E2AB074C02",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B02DBA9D31B5B78F5C97EE4360448273B5C3FBAB" : "MapScreenshot\/",
+    "9F0FD591651DE63D580009E5E2162B5B8523FDC4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MapScreenshot",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MapScreenshot.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/burnichok\/uklon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F0FD591651DE63D580009E5E2162B5B8523FDC4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nburyak\/MapScreenshot.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B02DBA9D31B5B78F5C97EE4360448273B5C3FBAB"
+    }
+  ]
+}
